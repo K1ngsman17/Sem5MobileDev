@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="ModricScreenOrientation" />
+    <string name="luka_modric_is_the_best">Luka Modric is the Best</string>
+    <string name="default_message">Default Message</string>
+    <string name="change_orientation">Change Orientation</string>
+</resources>
